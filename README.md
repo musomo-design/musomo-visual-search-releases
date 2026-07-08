@@ -20,57 +20,25 @@ Built for designers, photographers, illustrators, studios, and anyone managing l
 
 Choose the installer for your operating system. Replace the placeholder links below with your release URLs before publishing.
 
-<table>
-<tr>
-<td width="33%" align="center" valign="top">
+<div align="center">
 
-<br>
+<a href="YOUR_MACOS_ARM_LINK">
+  <img src="assets/Download_MacOs.svg" alt="Download for MacOS Apple Silicon" width="31%" />
+</a>
+<a href="YOUR_MACOS_INTEL_LINK">
+  <img src="assets/Download_MacOs_intel.svg" alt="Download for MacOS Intel" width="31%" />
+</a>
+<a href="YOUR_WINDOWS_LINK">
+  <img src="assets/Download_Windows.svg" alt="Download for Windows" width="31%" />
+</a>
 
-**macOS**
+</div>
 
-### Apple Silicon
-
-For M1, M2, M3 & M4 Macs  
-`.dmg` installer
-
-<br>
-
-<a href="YOUR_MACOS_ARM_LINK" style="display:inline-block;padding:12px 28px;border:2px solid #16A34A;border-radius:999px;color:#16A34A;text-decoration:none;font-weight:600;font-size:14px;">Download for Mac</a>
-
-</td>
-<td width="33%" align="center" valign="top">
-
-<br>
-
-**macOS**
-
-### Intel
-
-For Intel-based Macs  
-`.dmg` installer
-
-<br>
-
-<a href="YOUR_MACOS_INTEL_LINK" style="display:inline-block;padding:12px 28px;border:2px solid #16A34A;border-radius:999px;color:#16A34A;text-decoration:none;font-weight:600;font-size:14px;">Download for Mac</a>
-
-</td>
-<td width="33%" align="center" valign="top">
-
-<br>
-
-**Windows**
-
-### Windows 10 & 11
-
-`.exe` installer
-
-<br>
-
-<a href="YOUR_WINDOWS_LINK" style="display:inline-block;padding:12px 28px;border:2px solid #16A34A;border-radius:999px;color:#16A34A;text-decoration:none;font-weight:600;font-size:14px;">Download for Windows</a>
-
-</td>
-</tr>
-</table>
+| Platform | Direct link |
+|---|---|
+| **macOS Apple Silicon** | [Download for Mac](YOUR_MACOS_ARM_LINK) |
+| **macOS Intel** | [Download for Mac](YOUR_MACOS_INTEL_LINK) |
+| **Windows 10 & 11** | [Download for Windows](YOUR_WINDOWS_LINK) |
 
 > **Before publishing:** set `YOUR_MACOS_ARM_LINK`, `YOUR_MACOS_INTEL_LINK`, and `YOUR_WINDOWS_LINK` to the direct download URLs from your public GitHub Releases page.
 
