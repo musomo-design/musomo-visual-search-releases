@@ -22,25 +22,26 @@ Choose the installer for your operating system. Replace the placeholder links be
 
 <div align="center">
 
-<a href="YOUR_MACOS_ARM_LINK">
+<a href="https://visual.musomo.net/download/Musomo_Visual_Search_0.8.9_aarch64.dmg">
   <img src="assets/Download_MacOs.svg" alt="Download for MacOS Apple Silicon" width="31%" />
 </a>
-<a href="YOUR_MACOS_INTEL_LINK">
+<a href="https://visual.musomo.net/download/Musomo_Visual_Search_0.8.9_x64.dmg">
   <img src="assets/Download_MacOs_intel.svg" alt="Download for MacOS Intel" width="31%" />
 </a>
-<a href="YOUR_WINDOWS_LINK">
+<a href="https://visual.musomo.net/download/Musomo_Visual_Search_0.8.9_x64-setup.exe">
   <img src="assets/Download_Windows.svg" alt="Download for Windows" width="31%" />
 </a>
 
 </div>
 
-| Platform | Direct link |
-|---|---|
-| **macOS Apple Silicon** | [Download for Mac](YOUR_MACOS_ARM_LINK) |
-| **macOS Intel** | [Download for Mac](YOUR_MACOS_INTEL_LINK) |
-| **Windows 10 & 11** | [Download for Windows](YOUR_WINDOWS_LINK) |
 
-> **Before publishing:** set `YOUR_MACOS_ARM_LINK`, `YOUR_MACOS_INTEL_LINK`, and `YOUR_WINDOWS_LINK` to the direct download URLs from your public GitHub Releases page.
+
+| Platform | Download |
+|----------|----------|
+| **macOS Apple Silicon** | [Download](https://visual.musomo.net/download/Musomo_Visual_Search_0.8.9_aarch64.dmg) |
+| **macOS Intel** | [Download](https://visual.musomo.net/download/Musomo_Visual_Search_0.8.9_x64.dmg) |
+| **Windows 10 & 11** | [Download](https://visual.musomo.net/download/Musomo_Visual_Search_0.8.9_x64-setup.exe) |
+
 
 ---
 
